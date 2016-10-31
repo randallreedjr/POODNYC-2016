@@ -9,6 +9,6 @@ gem 'minitest', '~> 5.8'
 #
 #---- or ----
 #
-# gem 'rerun'
-# gem 'rb-fsevent' # osx only
+gem 'rerun'
+gem 'rb-fsevent' # osx only
 #  then >rerun bottles/test/bottles_test.rb
